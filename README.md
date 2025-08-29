@@ -1,6 +1,6 @@
 # Genetics — Genome Test with Punitive Decrease
 
-Genetic Algorithm experiments with **adaptive punitive decrease** applied to the genome. The repository is designed for **easy execution**, **reproducibility**, and **clear evaluation** of results, following best practices valued by recruiters at **Amazon, B3, Google, Nubank**, and **Mercado Livre**.
+Genetic Algorithm experiments with **adaptive punitive decrease** applied to the genome. The repository is designed for **easy execution**, **reproducibility**, and **clear evaluation**
 
 > Main notebook: `Genetica_testeGenomaDiminuicaoPunitivaTeste.ipynb`
 
