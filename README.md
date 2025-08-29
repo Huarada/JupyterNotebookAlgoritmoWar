@@ -217,9 +217,7 @@ No. Experiments are synthetic and self-contained.
 ## License
 
 Choose one depending on your goals:
-- **MIT** (simple, permissive).  
-- **Apache 2.0** (corporate-friendly, patent clauses).  
-
+- **MIT** (simple, permissive).   
 ---
 
 ### Recruiter’s note
